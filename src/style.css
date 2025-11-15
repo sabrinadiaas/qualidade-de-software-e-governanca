@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+li {
+  padding: 5px;
+  cursor: pointer;
+}
+
+li.done {
+  text-decoration: line-through;
+  color: gray;
+}
